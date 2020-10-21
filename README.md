@@ -24,7 +24,7 @@
 <img align="left" alt="Docker" height="25px" src="../assets/docker.png?raw=true" />
 <img align="left" alt="AWS" height="25px" src="../assets/aws.png?raw=true" />
 <img align="left" alt="PCL" height="25px" src="../assets/pcl2.png?raw=true" />
-<img align="left" alt="ROS" height="25px" src="../assets/ros.png?raw=true" /> <br/>
+<img align="left" alt="ROS" height="25px" src="../assets/ros.png?raw=true" />
 <img align="left" alt="GitHub" height="25px" src="../assets/github.png?raw=true" />
 
 <br/>
