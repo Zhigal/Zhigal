@@ -14,24 +14,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" height="50px" src="../assets/html.png?raw=true" />
-<img align="left" alt="CSS3" height="50px" src="../assets/css.png?raw=true" />
-<img align="left" alt="JavaScript" height="50px" src="../assets/javascript.png?raw=true" />
-<img align="left" alt="Django" height="50px" src="../assets/django.jpeg?raw=true" />
-<img align="left" alt="Leaflet" height="50px" src="../assets/leaflet.png?raw=true" />
-
-<br/>
-<br/>
-
-<img align="left" alt="Python" height="50px" src="../assets/python.png?raw=true" />
-<img align="left" alt="C++" height="50px" src="../assets/cpp.png?raw=true" />
-<img align="left" alt="Docker" height="50px" src="../assets/docker.png?raw=true" />
-<img align="left" alt="AWS" height="50px" src="../assets/aws.png?raw=true" />
-<img align="left" alt="PCL" height="50px" src="../assets/pcl2.png?raw=true" />
-<img align="left" alt="ROS" height="50px" src="../assets/ros.png?raw=true" /> <br/>
-<img align="left" alt="RasPi" height="50px" src="../assets/raspi.png?raw=true" />
-<img align="left" alt="GitHub" height="50px" src="../assets/github.png?raw=true" />
-<img align="left" alt="Terminal" height="50px" src="../assets/terminal.png?raw=true" />
+<img align="left" alt="HTML5" height="25px" src="../assets/html.png?raw=true" />
+<img align="left" alt="CSS3" height="25px" src="../assets/css.png?raw=true" />
+<img align="left" alt="JavaScript" height="25px" src="../assets/javascript.png?raw=true" />
+<img align="left" alt="Django" height="25px" src="../assets/django.jpeg?raw=true" />
+<img align="left" alt="Leaflet" height="25px" src="../assets/leaflet.png?raw=true" />
+<img align="left" alt="Python" height="25px" src="../assets/python.png?raw=true" />
+<img align="left" alt="C++" height="25px" src="../assets/cpp.png?raw=true" />
+<img align="left" alt="Docker" height="25px" src="../assets/docker.png?raw=true" />
+<img align="left" alt="AWS" height="25px" src="../assets/aws.png?raw=true" />
+<img align="left" alt="PCL" height="25px" src="../assets/pcl2.png?raw=true" />
+<img align="left" alt="ROS" height="25px" src="../assets/ros.png?raw=true" /> <br/>
+<img align="left" alt="GitHub" height="25px" src="../assets/github.png?raw=true" />
 
 <br/>
 <br/>
