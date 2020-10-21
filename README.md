@@ -19,6 +19,10 @@
 <img align="left" alt="JavaScript" height="50px" src="../assets/javascript.png?raw=true" />
 <img align="left" alt="Django" height="50px" src="../assets/django.jpeg?raw=true" />
 <img align="left" alt="Leaflet" height="50px" src="../assets/leaflet.png?raw=true" />
+
+<br/>
+<br/>
+
 <img align="left" alt="Python" height="50px" src="../assets/python.png?raw=true" />
 <img align="left" alt="C++" height="50px" src="../assets/cpp.png?raw=true" />
 <img align="left" alt="Docker" height="50px" src="../assets/docker.png?raw=true" />
@@ -28,7 +32,10 @@
 <img align="left" alt="RasPi" height="50px" src="../assets/raspi.png?raw=true" />
 <img align="left" alt="GitHub" height="50px" src="../assets/github.png?raw=true" />
 <img align="left" alt="Terminal" height="50px" src="../assets/terminal.png?raw=true" />
+
 <br/>
+<br/>
+
 ---
 
 <img align="left" alt="Zhigal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Zhigal&show_icons=true&hide_border=true&count_private=true" />
