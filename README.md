@@ -28,7 +28,7 @@
 <img align="left" alt="RasPi" height="50px" src="../assets/raspi.png?raw=true" />
 <img align="left" alt="GitHub" height="50px" src="../assets/github.png?raw=true" />
 <img align="left" alt="Terminal" height="50px" src="../assets/terminal.png?raw=true" />
-
+<br/>
 ---
 
 <img align="left" alt="Zhigal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Zhigal&show_icons=true&hide_border=true&count_private=true" />
