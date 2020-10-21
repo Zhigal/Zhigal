@@ -19,8 +19,9 @@
 <img align="left" alt="JavaScript" height="50px" src="../assets/javascript.png?raw=true" />
 <img align="left" alt="Django" height="50px" src="../assets/django.jpeg?raw=true" />
 <img align="left" alt="Leaflet" height="50px" src="../assets/leaflet.png?raw=true" />
+
 <br/>
-<br/>
+
 <img align="left" alt="Python" height="50px" src="../assets/python.png?raw=true" />
 <img align="left" alt="C++" height="50px" src="../assets/cpp.png?raw=true" />
 <img align="left" alt="Docker" height="50px" src="../assets/docker.png?raw=true" />
