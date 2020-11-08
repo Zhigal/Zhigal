@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" height="25px" src="../assets/html.svg?raw=true" />
+<img align="left" alt="HTML5" height="25px" src="../assets/html.png?raw=true" />
 <img align="left" alt="CSS3" height="25px" src="../assets/css.png?raw=true" />
 <img align="left" alt="JavaScript" height="25px" src="../assets/javascript.png?raw=true" />
 <img align="left" alt="Django" height="25px" src="../assets/django.jpeg?raw=true" />
