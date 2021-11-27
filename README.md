@@ -1,11 +1,10 @@
-### Hi there 👋, I'm Ivan - aka Zhigal
+### Hi there 👋
 
 - 🔭 I’m currently working on an autonomous vehicle! 🚜
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other robot developers 🤖🤖🤖
 - 📫 How to reach me: razvilgrad@gmail.com
 - 🥅 2021 goals: Contribute more to open source projects
-- ⚡ Fun fact: I love to play darts 🎯
 
 <br/>
 
