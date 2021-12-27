@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an autonomous vehicle! 🚜
+- 🔭 I’m currently working on autonomous vehicles 🚜🚜🚜
 - 📫 How to reach me: razvilgrad@gmail.com
 - 🥅 2022 goals: Contribute more to open source projects
 
