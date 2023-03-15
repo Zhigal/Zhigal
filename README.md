@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on CFR applied to poker ♥️♣️♦️♠️
 - 🔍 I'm interested in financial markets
 - 📫 How to reach me: razvilgrad@gmail.com
-- 🥅 2022 goals: Contribute more to open source projects
+- 🥅 2023 goals: Contribute more to open source projects
 
 <br/>
 
